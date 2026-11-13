@@ -1,4 +1,4 @@
-# BackendPractice
+# Backend Practice
 
 ## Stack
 Node.js, Express, MongoDB (Mongoose)
